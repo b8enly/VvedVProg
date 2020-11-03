@@ -1,0 +1,13 @@
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.csprojAssemblyReference.cache
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.AssemblyInfoInputs.cache
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.AssemblyInfo.cs
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.csproj.CoreCompileInputs.cache
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.exe
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.deps.json
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.runtimeconfig.json
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.runtimeconfig.dev.json
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.dll
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.pdb
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.dll
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.pdb
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 8\201-725_ЯблонскаяСС_Задание2_Лаб8\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Задание2_Лаб8.genruntimeconfig.cache
