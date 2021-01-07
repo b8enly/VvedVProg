@@ -1,0 +1,13 @@
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.exe
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.deps.json
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.runtimeconfig.json
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.runtimeconfig.dev.json
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.dll
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\bin\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.pdb
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.csprojAssemblyReference.cache
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.AssemblyInfoInputs.cache
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.AssemblyInfo.cs
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.csproj.CoreCompileInputs.cache
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.dll
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.pdb
+C:\Users\Sofa\Desktop\поликек\ВВП\Лабораторная 14\201-725_ЯблонскаяСС_Лаб14_Задание6\obj\Debug\netcoreapp3.1\201-725_ЯблонскаяСС_Лаб14_Задание6.genruntimeconfig.cache
